@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> <manifest> <project 
+<project path="kernel/samsung/msm8976" name="android_kernel_samsung_msm8976" remote="los" revision="lineage-16.0" />
+<project path="hardware/samsung" name="android_hardware_samsung" remote="los" revision="lineage-16.0" />
+<project path="hardware/sony/timekeep" name="android_hardware_sony_timekeep" remote="los" revision="lineage-16.0" />
+<project path="device/samsung/msm8976-common" name="android_device_samsung_msm8976-common" remote="los" revision="lineage-16.0" />
+<project path="gts210vewifi" name="proprietary_vendor_samsung" remote="mictlan" />
+<project path="msm8976-common" name="proprietary_vendor_samsung" remote="mictlan"/>
+
+
+<remote name="mictlan" fetch="https://github.com/mictlantecuhtli420" revision="cm-14.1"/>
+
+</manifest>
+	
